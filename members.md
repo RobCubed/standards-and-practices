@@ -231,6 +231,7 @@ Format:
 | Randy Le | [WickedWallaby](https://github.com/WickedWallaby) |  |
 | Raymond Tang | [Raytray](https://github.com/Raytray) ||
 | Robert Povsic | [esoyitaque](https://github.com/esoyitaque)| Can program Java and Android would like to learn C++ and Python |
+| Robert Whittemore III | [RobCubed](https://github.com/RobCubed) | Have dabbled in languages like Python, C++, C#, LUA, and Perl. Familiar - but not adept - with front end web development. Strong background in server administration (Linux) and Database Administration (largely MySQL). I am focusing primarily on Java. ||
 | Roc Hodges | [myth134](https://github.com/myth134) ||
 | Rod Lai | [Rodlikespants](https://github.com/Rodlikespants) | I know Java, Perl, C++, and a little bit of many others (Ruby, Python, JavaScript, Node.js).  I've been working in the industry for a few years but would like more experience developing independent projects and contributing to OSS |
 | Russ Bryan | [rchkb](https://github.com/) ||
